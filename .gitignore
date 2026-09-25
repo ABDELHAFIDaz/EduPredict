@@ -36,6 +36,7 @@ Thumbs.db
 /data/*.csv
 *.csv
 *.json
+!/data/cleaned_data.csv
 
 # Python build artifacts / packaging
 dist/
